@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "MentaTanxSDK"
-  spec.version      = "3.2.0"
+  spec.version      = "3.2.0.1"
   spec.summary      = "TanxSDK"
 
   spec.description  = <<-DESC
